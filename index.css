@@ -1,0 +1,80 @@
+body{
+ background-position-x:1%;
+ background-position-y: 1%;
+
+}
+table, th, td {
+  border: 4px solid rgb(23, 193, 223);
+  border-style: inset;
+  color: mediumblue;
+  
+}
+h2{
+  text-align: center;
+  color: palevioletred;
+
+}
+q {
+  text-align: center;
+  font-size: 2em;
+  color: yellow;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+
+font-size-adjust: inherit;
+color:red;
+}
+
+table, th, td {
+  padding: 15px;
+  font-size: 1.25em;
+  font-weight: 1em;
+font-stretch: initial;
+}
+#para{
+  text-align: right;
+  float: right;
+  font-style: bold;
+}
+
+}
+#center{
+  text-align: center;
+}
+div, ul, li {
+font-style: bold;
+color: rgb(0, 128, 0);
+font-size: 1.5em;
+font-weight: 100;
+
+}
+#spyze{
+  display: block;
+  font-style: bold;
+  color: darkred;
+  text-align: center;
+  font-size: 1.75em;
+   
+}
+#right{
+  text-align: right;
+  margin-left: 80%;
+  margin-right: 20%;
+  width: 15%;
+  height: 10%;
+  display: flex
+}
+#center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  height: 10%;
+  float: center;
+}
+.center{
+  float: left;
+  text-decoration-color: darkgreen
+}
